@@ -16,7 +16,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "One Dark Pro Monokai Darker",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -32,6 +32,7 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
-  "window.zoomLevel": 0
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "window.zoomLevel": 0,
+  "compile-hero.disable-compile-files-on-did-save-code": false
 }
